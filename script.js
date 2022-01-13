@@ -2,7 +2,6 @@ const mainSection = document.querySelector('main');
 const mcValue = document.getElementById('mc');
 const pcsValue = document.getElementById('pcs');
 const priceNTVA = document.getElementById('priceNTVA');
-// const btnCalculate = document.getElementById('calculate');
 
 const displayResult = document.createElement('p');
 mainSection.append(displayResult);
