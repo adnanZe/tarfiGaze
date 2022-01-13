@@ -1,3 +1,3 @@
 # tarfiGaze
 
-https://adnanze.github.io/tarfiGaze/
+https://adnanze.github.io/tarifeGaze/
